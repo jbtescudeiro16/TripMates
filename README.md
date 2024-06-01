@@ -77,12 +77,14 @@ Assim que o utilizador entra na páginal inicial, é-lhe apresentada a figura da
 </p>
 
 ***
+
 ### Registo
 Na página de registo é possível criar uma nova conta, inserindo os dados do nome de utilizador, e-mail, password e confirmação da password. Após estes dados serem inseridos, e quando o utilizador cria no botão de registo, e automaticamente criada uma nova entrada na base de dados com estes dados, e o utilziador fica válido.
 
 <p align="center">
     <img src="https://github.com/jbtescudeiro16/TripMates/blob/main/pics/Registo.jpg" alt="Página de Registo" width="250">
 </p>
+
 ***
 
 ### Página principal do utilizador
