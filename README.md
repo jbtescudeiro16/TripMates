@@ -43,10 +43,10 @@ viagem.
 
 ### Armazenamento dos dados
 
-Criamos 3 coleções para o armazenamento dos dados
-  1.**fuel prices**:esta coleção mantém informações atualizadas sobre os preços
+Criamos 3 coleções para o armazenamento dos dados:
+  1. **fuel prices**:esta coleção mantém informações atualizadas sobre os preços
 dos combustíveis em Portugal.
-  2.**trips**:aqui são armazenados os detalhes de cada viagem realizada pelos utilizadores. 
+  2. **trips**:aqui são armazenados os detalhes de cada viagem realizada pelos utilizadores. 
   3. **users**: nesta coleção, são mantidos os perfis dos utilizadores.
 
 
