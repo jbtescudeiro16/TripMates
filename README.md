@@ -52,7 +52,7 @@ dos combustíveis em Portugal.
 
 ## Fluxogramas
 
-De seguida esão apresentados dois diagramas. 
+  De seguida esão apresentados dois diagramas. 
 <p>Abaixo podemos observar o diagrama que mostra a aruitetura da aplicação, bem como os componentes essenciais à realização da mesma. </p>
 
 <p align="center">
@@ -67,10 +67,10 @@ De seguida esão apresentados dois diagramas.
 </p>
 
 ## Layout da aplicação
-Nesta secção serão apresentados os layouts finais da aplicação. Os layouts foram construídos utilizando a ferramenta Canva, que facilitou muito o trabalho.
+  Nesta secção serão apresentados os layouts finais da aplicação. Os layouts foram construídos utilizando a ferramenta Canva, que facilitou muito o trabalho.
 
 ### Página Inicial
-Assim que o utilizador entra na páginal inicial, é-lhe apresentada a figura da imagem abaixo. O utilizador tem a possibilidade de fazer login com as suas credenciais armazenadas na base de dados, ou caso ainda não possua uma conta, tem a possibilidade de fazer um novo registo que está mencionado na figura da subseção **Registo**.
+  Assim que o utilizador entra na páginal inicial, é-lhe apresentada a figura da imagem abaixo. O utilizador tem a possibilidade de fazer login com as suas credenciais armazenadas na base de dados, ou caso ainda não possua uma conta, tem a possibilidade de fazer um novo registo que está mencionado na figura da subseção **Registo**.
 
 <p align="center">
     <img src="https://github.com/jbtescudeiro16/TripMates/blob/main/pics/FirstPage.jpg" alt="Página Inicial do TripMates" width="250">
@@ -79,7 +79,7 @@ Assim que o utilizador entra na páginal inicial, é-lhe apresentada a figura da
 ***
 
 ### Registo
-Na página de registo é possível criar uma nova conta, inserindo os dados do nome de utilizador, e-mail, password e confirmação da password. Após estes dados serem inseridos, e quando o utilizador cria no botão de registo, e automaticamente criada uma nova entrada na base de dados com estes dados, e o utilziador fica válido.
+  Na página de registo é possível criar uma nova conta, inserindo os dados do nome de utilizador, e-mail, password e confirmação da password. Após estes dados serem inseridos, e quando o utilizador cria no botão de registo, e automaticamente criada uma nova entrada na base de dados com estes dados, e o utilziador fica válido.
 
 <p align="center">
     <img src="https://github.com/jbtescudeiro16/TripMates/blob/main/pics/Registo.jpg" alt="Página de Registo" width="250">
@@ -88,8 +88,12 @@ Na página de registo é possível criar uma nova conta, inserindo os dados do n
 ***
 
 ### Página principal do utilizador
-Depois da autenticação de um utilziador acontecer na sua normalidade, é apresentada uma página em que são listadas as viagens de um utilizador, da mais recente para a mais antiga, com os respetivos dados. É também apresentado o nome do utilizador em cima, bem como um botão que, quando clicado, vai para a página apresentada em **Seleção dos dados da viagem**.
+  Depois da autenticação de um utilziador acontecer na sua normalidade, é apresentada uma página em que são listadas as viagens de um utilizador, da mais recente para a mais antiga, com os respetivos dados. É também apresentado o nome do utilizador em cima, bem como um botão que, quando clicado, vai para a página apresentada em **Começar Viagem**.
 
 <p align="center">
     <img src="https://github.com/jbtescudeiro16/TripMates/blob/main/pics/ProfilePaage.jpg" alt="Página do utilizador" width="270">
 </p>
+
+***
+
+### Começar Viagem
