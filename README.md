@@ -70,7 +70,7 @@ De seguida esão apresentados dois diagramas.
 Nesta secção serão apresentados os layouts finais da aplicação. Os layouts foram construídos utilizando a ferramenta Canva, que facilitou muito o trabalho.
 
 ### Página Inicial
-Assim que o utilizador entra na páginal inicial, é-lhe apresentada a figura da imagem abaixo. O utilizador tem a possibilidiade de fazer login com as suas credenciais armazenadas na base de dados, ou caso ainda não possua uma conta, tem a possibilidade de fazer um novo registo que está mencionado na figura sa subseção **Registo**.
+Assim que o utilizador entra na páginal inicial, é-lhe apresentada a figura da imagem abaixo. O utilizador tem a possibilidade de fazer login com as suas credenciais armazenadas na base de dados, ou caso ainda não possua uma conta, tem a possibilidade de fazer um novo registo que está mencionado na figura da subseção **Registo**.
 
 <p align="center">
     <img src="https://github.com/jbtescudeiro16/TripMates/blob/main/pics/FirstPage.jpg" alt="Página Inicial do TripMates" width="250">
