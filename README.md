@@ -58,7 +58,9 @@ De seguida esão apresentados dois diagramas.
 <p align="center">
   <img src="https://github.com/jbtescudeiro16/TripMates/blob/main/pics/arquitetura.drawio.png" alt="Arquitetura TripMates" width="30%"> 
 </p>
-___
+
+*** 
+
 <p>Em baixo encontra-se a imagem que mostra o fluxo na aplicação, que um utilizador pode tomar, mediante as ações selecionadas.</p>
 <p align="center">
 <img src="https://github.com/jbtescudeiro16/TripMates/blob/main/pics/utilizacao_TripMates.drawio.png" alt="Utilizacao TripMates" width="30%">
