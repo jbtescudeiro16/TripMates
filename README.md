@@ -1,6 +1,7 @@
 # TripMates
 ## Objetivos
 No âmbito da Unidade curricular de Sensorização e Ambiente, inserida no perfil de Sistemas Inteligentes do 1º ano do Mestrado em Engenharia Informática do ano letivo 2023/2024, foi-nos proposto a construção de uma aplicação que utilizasse como base dados recolhidos por sensores.
+<p></p>
 Decidimos construir um projeto, cujo objetivo principal ́é a construção de uma aplicaçao móvel que permita
 aos utilizadores registar despesas de viagem, calcular automaticamente os custos
 com base nos dados do carro e no preço atual dos combustíveis, e atribuir uma
