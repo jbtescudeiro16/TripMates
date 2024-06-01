@@ -69,7 +69,7 @@ De seguida esão apresentados dois diagramas.
 ## Layout da aplicação
 Nesta secção serão apresentados os layouts finais da aplicação. Os layouts foram construídos utilizando a ferramenta Canva, que facilitou muito o trabalho.
 
-#### Página Inicial
+### Página Inicial
 Assim que o utilizador entra na páginal inicial, é-lhe apresentada a figura da imagem abaixo. O utilizador tem a possibilidiade de fazer login com as suas credenciais armazenadas na base de dados, ou caso ainda não possua uma conta, tem a possibilidade de fazer um novo registo que está mencionado na figura sa subseção **Registo**.
 
 <p align="center">
@@ -77,4 +77,4 @@ Assim que o utilizador entra na páginal inicial, é-lhe apresentada a figura da
 </p>
 
 ***
-#### Registo
+### Registo
