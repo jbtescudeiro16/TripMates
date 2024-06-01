@@ -53,10 +53,13 @@ dos combustíveis em Portugal.
 ## Fluxogramas
 
 De seguida esão apresentados dois diagramas. 
-<p>Do lado esquerdo o diagrama que mostra a aruitetura da aplicação, bem como os componentes essenciais à realização da mesma. </p>
-<p>Do lado direito, a imagem que mostra o fluxo na apliação, que um utilizador pode tomar, mediante as ações selecionadas.</p>
+<p>Abaixo podemos observar o diagrama que mostra a aruitetura da aplicação, bem como os componentes essenciais à realização da mesma. </p>
+
 <p align="center">
-  <img src="https://github.com/jbtescudeiro16/TripMates/blob/main/pics/arquitetura.drawio.png" alt="Arquitetura TripMates" width="30%">
-  <span style="display:inline-block; width: 1%;"></span> 
-  <img src="https://github.com/jbtescudeiro16/TripMates/blob/main/pics/utilizacao_TripMates.drawio.png" alt="Utilizacao TripMates" width="30%">
+  <img src="https://github.com/jbtescudeiro16/TripMates/blob/main/pics/arquitetura.drawio.png" alt="Arquitetura TripMates" width="30%"> 
+</p>
+#
+<p>Em baixo encontra-se a imagem que mostra o fluxo na aplicação, que um utilizador pode tomar, mediante as ações selecionadas.</p>
+<p align="center">
+<img src="https://github.com/jbtescudeiro16/TripMates/blob/main/pics/utilizacao_TripMates.drawio.png" alt="Utilizacao TripMates" width="30%">
 </p>
