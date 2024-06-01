@@ -91,5 +91,5 @@ Na página de registo é possível criar uma nova conta, inserindo os dados do n
 Depois da autenticação de um utilziador acontecer na sua normalidade, é apresentada uma página em que são listadas as viagens de um utilizador, da mais recente para a mais antiga, com os respetivos dados. É também apresentado o nome do utilizador em cima, bem como um botão que, quando clicado, vai para a página apresentada em **Seleção dos dados da viagem**.
 
 <p align="center">
-    <img src="https://github.com/jbtescudeiro16/TripMates/blob/main/pics/ProfilePaage.jpg" alt="Página do utilizador" width="250">
+    <img src="https://github.com/jbtescudeiro16/TripMates/blob/main/pics/ProfilePaage.jpg" alt="Página do utilizador" width="270">
 </p>
