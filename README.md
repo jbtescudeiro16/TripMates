@@ -78,9 +78,16 @@ Assim que o utilizador entra na páginal inicial, é-lhe apresentada a figura da
 
 ***
 ### Registo
-Na página de registo é possível criar uma nova conta, inserindo os dados do nome de utilizador, e-mail, password e confirmação da password. Após estes dados serem inseridos, e quando o utilizador cria no botão de registo, +e automaticamente criada uma nova entrada na base de dados com estes dados, e o utilziador fica válido.
+Na página de registo é possível criar uma nova conta, inserindo os dados do nome de utilizador, e-mail, password e confirmação da password. Após estes dados serem inseridos, e quando o utilizador cria no botão de registo, e automaticamente criada uma nova entrada na base de dados com estes dados, e o utilziador fica válido.
 
 <p align="center">
     <img src="https://github.com/jbtescudeiro16/TripMates/blob/main/pics/Registo.jpg" alt="Página de Registo" width="250">
 </p>
+***
 
+### Página principal do utilizador
+Depois da autenticação de um utilziador acontecer na sua normalidade, é apresentada uma página em que são listadas as viagens de um utilizador, da mais recente para a mais antiga, com os respetivos dados. É também apresentado o nome do utilizador em cima, bem como um botão que, quando clicado, vai para a página apresentada em **Seleção dos dados da viagem**.
+
+<p align="center">
+    <img src="https://github.com/jbtescudeiro16/TripMates/blob/main/pics/ProfilePaage.jpg" alt="Página do utilizador" width="250">
+</p>
