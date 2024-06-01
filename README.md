@@ -15,7 +15,7 @@ A nossa aplicação foi desenvolvida em Java+Kotlin , utilizando a ferramenta An
 ## Sensores Utilizados
 
 O TripMates utiliza um conjunto de sensores como :
-  1. Localização (Físico) - O TripMates- utiliza o sensor de localização físico do dispositivo móvel para rastrear a rota da viagem realizada. Essa informação é crucial para calcular a distância percorrida, a duração da viagem e outras métricas relacionadas à viagem. O cálculo da distância percorrida é feito através da soma acumulada das distâncias entre as posições registadas sempre que o dispositivo deteta uma mudança de posição. Isso permite que a App acompanhe continuamente o movimento do utilizador e forneça informações precisas sobre a rota e a distância total percorrida.
+  1. ** Localização (Físico) ** - O TripMates- utiliza o sensor de localização físico do dispositivo móvel para rastrear a rota da viagem realizada. Essa informação é crucial para calcular a distância percorrida, a duração da viagem e outras métricas relacionadas à viagem. O cálculo da distância percorrida é feito através da soma acumulada das distâncias entre as posições registadas sempre que o dispositivo deteta uma mudança de posição. Isso permite que a App acompanhe continuamente o movimento do utilizador e forneça informações precisas sobre a rota e a distância total percorrida.
 
   2. Second item
   3. Third item
