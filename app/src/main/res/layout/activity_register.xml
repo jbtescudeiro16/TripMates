@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="30dp"
+    android:background="@drawable/registarfundo">
+
+    <!-- Username Field -->
+    <RelativeLayout
+        android:id="@+id/usernameLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp">
+
+        <ImageView
+            android:id="@+id/ivUsernameIcon"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:src="@drawable/nome"
+            android:layout_marginStart="16dp"
+            android:layout_centerVertical="true"/>
+
+        <EditText
+            android:id="@+id/etUsername"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:hint="Nome de Utilizador"
+            android:layout_toEndOf="@id/ivUsernameIcon"
+            android:layout_marginStart="8dp"
+            android:background="@drawable/rounded_edittext_background"
+            android:paddingStart="10dp"
+            android:textColor="#000000"/>
+    </RelativeLayout>
+
+    <!-- Email Field -->
+    <RelativeLayout
+        android:id="@+id/emailLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/usernameLayout"
+        android:layout_marginBottom="16dp">
+
+        <ImageView
+            android:id="@+id/ivEmailIcon"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:src="@drawable/endereco"
+            android:layout_marginStart="16dp"
+            android:layout_centerVertical="true"/>
+
+        <EditText
+            android:id="@+id/etEmail"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:hint="E-mail"
+            android:layout_toEndOf="@id/ivEmailIcon"
+            android:layout_marginStart="8dp"
+            android:inputType="textEmailAddress"
+            android:background="@drawable/rounded_edittext_background"
+            android:paddingStart="10dp"
+            android:textColor="#000000"/>
+    </RelativeLayout>
+
+    <!-- Password Field -->
+    <RelativeLayout
+        android:id="@+id/passwordLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/emailLayout"
+        android:layout_marginBottom="16dp">
+
+        <ImageView
+            android:id="@+id/ivPasswordIcon"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:src="@drawable/cadeado"
+            android:layout_marginStart="16dp"
+            android:layout_centerVertical="true"/>
+
+        <EditText
+            android:id="@+id/etPassword"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:hint="Password"
+            android:layout_toEndOf="@id/ivPasswordIcon"
+            android:layout_marginStart="8dp"
+            android:inputType="textPassword"
+            android:background="@drawable/rounded_edittext_background"
+            android:paddingStart="10dp"
+            android:textColor="#000000"/>
+    </RelativeLayout>
+
+    <!-- Confirm Password Field -->
+    <RelativeLayout
+        android:id="@+id/confirmPasswordLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/passwordLayout"
+        android:layout_marginBottom="16dp">
+
+        <ImageView
+            android:id="@+id/ivConfirmPasswordIcon"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:src="@drawable/chave"
+            android:layout_marginStart="16dp"
+            android:layout_centerVertical="true"/>
+
+        <EditText
+            android:id="@+id/etConfirmPassword"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:hint="Confirme a Password"
+            android:layout_toEndOf="@id/ivConfirmPasswordIcon"
+            android:layout_marginStart="8dp"
+            android:inputType="textPassword"
+            android:background="@drawable/rounded_edittext_background"
+            android:paddingStart="10dp"
+            android:textColor="#000000"/>
+    </RelativeLayout>
+
+    <!-- Register Button -->
+    <Button
+        android:id="@+id/btnRegister"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Registar"
+        android:layout_below="@id/confirmPasswordLayout"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="34dp"
+        android:paddingStart="40dp"
+        android:paddingTop="20dp"
+        android:paddingEnd="40dp"
+        android:paddingBottom="20dp"
+        android:background="@drawable/rounded_button_background"
+        android:textColor="#FFFFFF"
+        android:elevation="8dp"/>
+
+</RelativeLayout>

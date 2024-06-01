@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/testee">
+
+    <!-- Layout para o Ícone do Tempo e Cronômetro -->
+    <RelativeLayout
+        android:id="@+id/chronometerLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="62dp">
+
+        <!-- Ícone do Tempo -->
+        <ImageView
+            android:id="@+id/chronometerIcon"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="210dp"
+            android:src="@drawable/cronometro"
+            android:layout_marginStart="16dp"
+            android:layout_centerVertical="true"/>
+
+        <!-- Cronômetro -->
+
+    </RelativeLayout>
+
+
+    <!-- Botão Finalizar Viagem -->
+    <Button
+        android:id="@+id/btnFinishTrip"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="480dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/iniciarviagem"
+        android:elevation="8dp"
+        android:padding="16dp"
+        android:text="Finalizar Viagem"
+        android:textColor="#ffffff"
+        android:onClick="finish"/>
+
+</RelativeLayout>

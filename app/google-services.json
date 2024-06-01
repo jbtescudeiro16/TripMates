@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "311665919939",
+    "project_id": "tpsensorizacao",
+    "storage_bucket": "tpsensorizacao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311665919939:android:42c29b77c5bec073a9df76",
+        "android_client_info": {
+          "package_name": "com.example.carride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1s-GEfLLT-f5pZf8RLD-eBhB6wzHDtJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
