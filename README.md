@@ -51,4 +51,4 @@ dos combustíveis em Portugal.
 
 
 ## Fluxogramas
-
+![Utilizacao TripMates](https://github.com/jbtescudeiro16/TripMates/blob/main/pics/arquitetura.drawio.png)
