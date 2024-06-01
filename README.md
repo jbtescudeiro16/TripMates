@@ -102,3 +102,7 @@ Assim que um utilizador seleciona iniciar uma nova viagem, surge a página em qu
 <p align="center">
     <img src="https://github.com/jbtescudeiro16/TripMates/blob/main/pics/Select_Fields.jpg" alt="Página de início de viagem" width="250">
 </p>
+
+***
+
+### Início
