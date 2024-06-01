@@ -1,10 +1,9 @@
 # TripMates
 ## Objetivos
-
-
-O objetivo principal do projeto  ́e desenvolver uma aplicaçao m ovel que permita
+No âmbito da Unidade curricular de Sensorização e Ambiente, inserida no perfil de Sistemas Inteligentes do 1º ano do Mestrado em Engenharia Informática do ano letivo 2023/2024, foi-nos proposto a construção de uma aplicação que utilizasse como base dados recolhidos por sensores.
+Decidimos construir um projeto, cujo objetivo principal ́é a construção de uma aplicaçao móvel que permita
 aos utilizadores registar despesas de viagem, calcular automaticamente os custos
-com base nos dados do carro e no pre co atual dos combust ́ıveis, e atribuir uma
+com base nos dados do carro e no preço atual dos combustíveis, e atribuir uma
 nota à viagem com base na qualidade da condução. O TripMates permite
 integrar sensores físicos, como o acelerometro do dispositivo movel, e sensores
 virtuais, como o acesso ao telefone durante a viagem, para avaliar a qualidade
