@@ -105,4 +105,13 @@ Assim que um utilizador seleciona iniciar uma nova viagem, surge a página em qu
 
 ***
 
-### Início
+### Viagem a decorrer
+Quando é iniciada uma viagem, é iniciado um serviço que lança uma notificação, como podemos ver na figura abaixo, que fica a correr em backgroud, garantindo que mesmo sem a aplicação estar aberta em primeiro plano, os sensores continuam a funcionar na sua normalidade.
+<p align="center">
+    <img src="https://github.com/jbtescudeiro16/TripMates/blob/main/pics/StartTrip%26Notif.png" alt="Página de início de viagem" width="250">
+</p>
+
+
+***
+
+https://github.com/jbtescudeiro16/TripMates/blob/main/pics/StartTrip%26Notif.png
