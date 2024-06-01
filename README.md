@@ -97,3 +97,8 @@ dos combustíveis em Portugal.
 ***
 
 ### Começar Viagem
+Assim que um utilizador seleciona iniciar uma nova viagem, surge a página em que é possível escolher o número de viajantes entre 1 e 10, o combustível que o carro consome, bem como o consumo médio do veículo por 100 km. Caso um utilzador não pretenda preencher estes dados, os mesmos são completados com os da última viagem. 
+
+<p align="center">
+    <img src="https://github.com/jbtescudeiro16/TripMates/blob/main/pics/Select_Fields.jpg" alt="Página de início de viagem" width="250">
+</p>
