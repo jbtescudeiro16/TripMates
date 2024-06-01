@@ -120,5 +120,5 @@ Quando o utilizador termina a viagem, é mostrada uma página igual à apresenta
 <p align="center">
     <img src="https://github.com/jbtescudeiro16/TripMates/blob/main/pics/final_trip.png" alt="Página de início de viagem" width="250">
 </p>
+Os dados calculados são enviados para a base de dados e serão mostrados na lista de viagens realizadas pelo utilizador que fica na Pagina Principal do Utilizador.
 
-***
