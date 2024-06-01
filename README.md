@@ -114,4 +114,11 @@ Quando é iniciada uma viagem, é iniciado um serviço que lança uma notificaç
 
 ***
 
-https://github.com/jbtescudeiro16/TripMates/blob/main/pics/StartTrip%26Notif.png
+### Fim de viagem
+Quando o utilizador termina a viagem, é mostrada uma página igual à apresentada em baixo, que contém informações sobre a duração, distância percorrida, custo total da viagem, custo por indivíduo e o rating da viagem, calculado através do acelerómetro do telemóvel.
+
+<p align="center">
+    <img src="https://github.com/jbtescudeiro16/TripMates/blob/main/pics/final_trip.png" alt="Página de início de viagem" width="250">
+</p>
+
+***
