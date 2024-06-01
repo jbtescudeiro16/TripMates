@@ -40,3 +40,15 @@ TripMates passa para um Foreground Service, garantindo que a aplicação permane
 estiver a executar outras tarefas em segundo plano. Isso permite uma recolha
 contínua e confiável de dados, garantindo uma análise precisa e completa da
 viagem.
+
+### Armazenamento dos dados
+
+Criamos 3 coleções para o armazenamento dos dados
+  1.**fuel prices**:esta coleção mantém informações atualizadas sobre os preços
+dos combustíveis em Portugal.
+  2.**trips**:aqui são armazenados os detalhes de cada viagem realizada pelos utilizadores. 
+  3. **users**: nesta coleção, são mantidos os perfis dos utilizadores.
+
+
+## Fluxogramas
+
